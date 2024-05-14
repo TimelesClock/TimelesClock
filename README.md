@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timelesclock&" alt="timelesclock" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=timeles&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=Timeles&stroke=%23BB432C)
 
